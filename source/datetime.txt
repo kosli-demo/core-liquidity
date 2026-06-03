@@ -1,1 +1,1 @@
-core-liquidity 1780511481
+core-liquidity 1780515350
